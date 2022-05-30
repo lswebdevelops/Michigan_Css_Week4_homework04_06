@@ -201,3 +201,14 @@ tr td:first-child{
    width: 430px;
    padding: 10px;
 }
+
+
+
+
+tr td:hover{
+
+    opacity: 1;
+    transform: translate(5px,3px);
+
+}
+
