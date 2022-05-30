@@ -1,5 +1,5 @@
 header{
-    padding: 30px;
+OBOBOBOBOB    padding: 30px;
     border-right:  150px;
     background: url("http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg") ;
     background-repeat: no-repeat;
@@ -177,12 +177,17 @@ table tr th{
 }
 
 
-
+th {
+    background-image: linear-gradient(#6a706a, rgb(130, 139, 82));
+    
+    text-shadow: -4px -4px rgb(130, 139, 82);
+}
 table tr:first-child{
     text-align: center;
     border-radius: 3px;
     border:  solid 40px rgb(181, 224, 71);
     background-color: rgb(147, 163, 78);
+    
 
    
 }
@@ -203,13 +208,10 @@ tr td:first-child{
    padding: 10px;
 }
 
-
-
-
 tr td:hover{
-
+    
     opacity: 1;
     transform: translate(5px,3px);
-
+       
 }
-
+ 
