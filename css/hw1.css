@@ -208,7 +208,7 @@ tr td:first-child{
    padding: 10px;
 }
 
-tr td:hover{
+tr:hover td{
     
     opacity: 1;
     transform: translate(5px,3px);
